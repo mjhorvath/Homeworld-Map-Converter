@@ -9,7 +9,7 @@ This is a map converter for converting Homeworld and Homeworld: Cataclysm levels
 3. Install any converted/generated maps to your "data\leveldata\multiplayer\homeworldclassic" folder. Create this folder if it doesn't already exist.
 
 ## NOTE
-All players must have the Homeworld Classic Maps mod installed in order to play against each other in multiplayer. Also, Windows Scripting Host v5.6 or greater must be installed in order for this converter to work. Windows Scripting Host comes pre-installed on Windows XP or higher I believe.
+All players must have the Homeworld Classic Maps mod installed in order to play against each other in multiplayer. Also, Windows Scripting Host v5.6 or greater must be installed in order for this converter to work. Windows Scripting Host comes pre-installed on Windows XP and higher I believe.
 
 ## INSTRUCTIONS
 There are two ways in which you can use this program:
