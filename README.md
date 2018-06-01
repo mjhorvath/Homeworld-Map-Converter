@@ -18,31 +18,31 @@ There are two ways in which you can use this program:
 
 2. You can run the program from the DOS command-line. The command-line syntax is as follows:
 
-    cscript [script] [Input File] [[Output File]] [[-game HW1 or HWC]] [[-debug]] [[-rus amount]] [[-peb amount]] [[-neb amount]]
+       cscript [script] [Input File] [[Output File]] [[-game HW1 or HWC]] [[-debug]] [[-rus amount]] [[-peb amount]] [[-neb amount]]
 
    Where:
 
-    [script] (mandatory) is the full path to "HW2_MapConverter.js".
+       [script] (mandatory) is the full path to "HW2_MapConverter.js".
 
-    [Input File] (mandatory) is the full path to the HW1 level you wish to convert.
+       [Input File] (mandatory) is the full path to the HW1 level you wish to convert.
 
-    [[Output File]] (optional) is the full path to the destination file. If [Output File] is omitted, then a new file will be generated with the same name and in the same directory as the input file, but with an additional "HW1_" or "HWC_" prefix.
+       [[Output File]] (optional) is the full path to the destination file. If [Output File] is omitted, then a new file will be generated with the same name and in the same directory as the input file, but with an additional "HW1_" or "HWC_" prefix.
 
-    [[-game]] (optional) tells the converter whether the original level was was made for "HW1" or "HWC". If omitted, the converter defaults to "HW1".
+       [[-game]] (optional) tells the converter whether the original level was was made for "HW1" or "HWC". If omitted, the converter defaults to "HW1".
 
-    [[-debug]] (optional) generates and additional file in the same directory as "HWR_MapConverter.js" that is useful for debugging.
+       [[-debug]] (optional) generates and additional file in the same directory as "HWR_MapConverter.js" that is useful for debugging.
 
-    [[-rus]] (optional) specifies the desired amount for the "RUsRatio" variable described below.
+       [[-rus]] (optional) specifies the desired amount for the "RUsRatio" variable described below.
 
-    [[-peb]] (optional) specifies the desired amount for the "PebRatio" variable described below.
+       [[-peb]] (optional) specifies the desired amount for the "PebRatio" variable described below.
 
-    [[-neb]] (optional) specifies the desired amount for the "NebRatio" variable described below.
+       [[-neb]] (optional) specifies the desired amount for the "NebRatio" variable described below.
 
    There are two additional parameters that shouldn't really be used:
 
-    [[-printfuncs]] (optional) appends the contents of "levelfunc.lua" to the end of a level file.
+       [[-printfuncs]] (optional) appends the contents of "levelfunc.lua" to the end of a level file.
 
-    [[-printvarbs]] (optional) prepends additional map-tweaking variables to the beginning of a level file.
+       [[-printvarbs]] (optional) prepends additional map-tweaking variables to the beginning of a level file.
 
    In theory, the first parameter should make it so that it is not required to have a copy of "levelfunc.lua" in the "data\scripts" folder, and thus make it so that maps can be traded freely over multiplayer. However, maps make use of other features such as harvestable dustclouds and nebula that require additional HODs and scripting.
 
