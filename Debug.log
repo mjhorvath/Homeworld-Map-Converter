@@ -1,0 +1,933 @@
+Now Parsing:
+	D:\Google Drive\Working\Homeworld\HWR_HWClassicMaps\HWR_HWClassicMaps_source\Source\Amphion4\Amphion4.level
+
+	Now parsing:
+		D:\Google Drive\Working\Homeworld\HWR_HWClassicMaps\HWR_HWClassicMaps_source\Source\Amphion4\resourcesphere_1.missphere
+	Line 1:
+		resources    asteroid,-25000.0,28500.0,-43500.0,cylinder,asteroid.dist,35,10000.0,16673.3,231.2,163.3,2048,7
+
+		Now parsing:
+			D:\Google Drive\Working\Homeworld\HWR_HWClassicMaps\HWR_HWClassicMaps_source\Source\Amphion4\asteroid.dist
+		Line 1:
+			Asteroid0       60	60
+
+		Line 2:
+			Asteroid1       55	55	
+
+		Line 3:
+			Asteroid2       70	70
+
+		Line 4:
+			Asteroid3       45	45
+
+		Line 5:
+			Asteroid4       70	70
+
+	Line 2:
+		resources    asteroid,-17500.0,23500.0,-32000.0,cylinder,asteroid.dist,35,10000.0,13190.9,229.3,125.5,2048,7
+	Line 3:
+		resources    asteroid,-11500.0,18000.0,-24000.0,cylinder,asteroid.dist,35,10000.0,10049.9,216.7,150.3,2048,7
+	Line 4:
+		resources    asteroid,0.0,16000.0,-10000.0,cylinder,asteroid.dist,35,10000.0,27202.9,126.0,0.0,2048,7
+	Line 5:
+		resources    asteroid,8000.0,11850.0,9000.0,cylinder,asteroid.dist,35,10000.0,18024.7,242.6,90.0,2048,7
+	Line 6:
+		resources    asteroid,19000.0,7700.0,17000.0,cylinder,asteroid.dist,35,10000.0,22000.0,180.0,0.0,2048,7
+	Line 7:
+		resources    asteroid,30000.0,5700.0,20000.0,cylinder,asteroid.dist,35,10000.0,7211.1,236.3,90.0,2048,7
+	Line 8:
+		resources    asteroid,34000.0,2350.0,28500.0,cylinder,asteroid.dist,35,10000.0,13866.9,232.5,161.4,2048,7
+	Line 9:
+		resources    asteroid,37000.0,-3500.0,37500.0,cylinder,asteroid.dist,35,10000.0,11575.8,217.2,77.5,2048,7
+	Line 10:
+		resources    asteroid,36000.0,-15000.0,42500.0,cylinder,tiny.dist,35,10000.0,14317.8,192.1,90.0,     ?,     ?
+
+		Now parsing:
+			D:\Google Drive\Working\Homeworld\HWR_HWClassicMaps\HWR_HWClassicMaps_source\Source\Amphion4\tiny.dist
+		Line 1:
+			Asteroid0       40        40
+
+		Line 2:
+			Asteroid1       0         0
+
+		Line 3:
+			Asteroid2       0         0
+
+		Line 4:
+			Asteroid3       0         0 
+
+		Line 5:
+			Asteroid4       0         0
+
+	Line 11:
+		resources    asteroid,33000.0,-26500.0,47000.0,cylinder,tiny.dist,35,10000.0,12369.3,209.0,56.3,     ?,     ?
+	Line 12:
+		resources    asteroid,-85000.0,55000.0,-85000.0,cylinder,tiny.dist,35,10000.0,17320.5,215.3,135.0,     ?,     ?
+	Line 13:
+		resources    asteroid,-75000.0,45000.0,-75000.0,cylinder,tiny.dist,35,10000.0,17320.5,215.3,135.0,     ?,     ?
+	Line 14:
+		resources    asteroid,-65000.0,38000.0,-67000.0,cylinder,tiny.dist,35,10000.0,12328.8,209.1,158.2,     ?,     ?
+	Line 15:
+		resources    asteroid,-55000.0,35000.0,-62000.0,cylinder,tiny.dist,35,10000.0,10954.5,201.4,168.7,     ?,     ?
+	Line 16:
+		resources    asteroid,-40000.0,32000.0,-55000.0,cylinder,tiny.dist,35,10000.0,22715.6,206.1,168.7,     ?,     ?
+	Line 17:
+		resources    asteroid,-25000.0,28500.0,-43500.0,cylinder,tiny.dist,35,10000.0,16673.3,231.2,163.3,     ?,     ?
+	Line 18:
+		resources    asteroid,-17500.0,23500.0,-32000.0,cylinder,tiny.dist,35,10000.0,13190.9,229.3,125.5,     ?,     ?
+	Line 19:
+		resources    asteroid,-11500.0,18000.0,-24000.0,cylinder,tiny.dist,35,10000.0,10049.9,216.7,150.3,     ?,     ?
+	Line 20:
+		resources    asteroid,0.0,16000.0,-10000.0,cylinder,tiny.dist,35,10000.0,27202.9,126.0,0.0,     ?,     ?
+	Line 21:
+		resources    asteroid,8000.0,11850.0,9000.0,cylinder,tiny.dist,35,10000.0,18024.7,242.6,90.0,     ?,     ?
+	Line 22:
+		resources    asteroid,19000.0,7700.0,17000.0,cylinder,tiny.dist,35,10000.0,22000.0,180.0,0.0,     ?,     ?
+	Line 23:
+		resources    asteroid,30000.0,5700.0,20000.0,cylinder,tiny.dist,35,10000.0,7211.1,236.3,90.0,     ?,     ?
+	Line 24:
+		resources    asteroid,34000.0,2350.0,28500.0,cylinder,tiny.dist,35,10000.0,13866.9,232.5,161.4,     ?,     ?
+	Line 25:
+		resources    asteroid,37000.0,-3500.0,37500.0,cylinder,tiny.dist,35,10000.0,11575.8,217.2,77.5,     ?,     ?
+	Line 26:
+		resources    asteroid,36000.0,-15000.0,42500.0,cylinder,tiny.dist,35,10000.0,14317.8,192.1,90.0,     ?,     ?
+	Line 27:
+		resources    asteroid,33000.0,-26500.0,47000.0,cylinder,tiny.dist,35,10000.0,12369.3,209.0,56.3,     ?,     ?
+	Line 28:
+		resources    asteroid,25000.0,-35500.0,45000.0,cylinder,tiny.dist,35,10000.0,16763.1,143.4,42.0,     ?,     ?
+	Line 29:
+		resources    asteroid,20000.0,-50000.0,55000.0,cylinder,tiny.dist,35,10000.0,36055.5,236.3,90.0,     ?,     ?
+	Line 30:
+		resources    asteroid,35000.0,-64500.0,80000.0,cylinder,tiny.dist,35,10000.0,37161.8,212.6,163.3,     ?,     ?
+	Line 31:
+		resources    asteroid,25000.0,-34500.0,45000.0,cylinder,tiny.dist,35,10000.0,123939.5,226.6,125.9,     ?,     ?
+	Line 32:
+		resources    asteroid,115000.0,-18500.0,-23500.0,cylinder,tiny.dist,35,10000.0,12569.8,213.8,163.3,     ?,     ?
+	Line 33:
+		resources    asteroid,100000.0,-14000.0,-29500.0,cylinder,tiny.dist,35,10000.0,21470.9,193.5,163.3,     ?,     ?
+	Line 34:
+		resources    asteroid,90000.0,-4000.0,-40000.0,cylinder,tiny.dist,35,10000.0,21260.3,228.8,90.0,     ?,     ?
+	Line 35:
+		resources    asteroid,80000.0,4500.0,-59000.0,cylinder,tiny.dist,35,10000.0,29883.1,227.4,171.5,     ?,     ?
+	Line 36:
+		resources    asteroid,70000.0,8000.0,-75000.0,cylinder,tiny.dist,35,10000.0,10770.3,248.2,90.0,     ?,     ?
+	Line 37:
+		resources    asteroid,75000.0,15000.0,-85000.0,cylinder,tiny.dist,35,10000.0,17320.5,215.3,45.0,     ?,     ?
+	Line 38:
+		resources    asteroid,65000.0,25000.0,-100000.0,cylinder,tiny.dist,35,10000.0,37416.6,212.3,161.6,     ?,     ?
+	Line 39:
+		resources    asteroid,50000.0,45000.0,-125000.0,cylinder,tiny.dist,35,10000.0,42426.4,225.0,90.0,     ?,     ?
+	Line 40:
+		resources    asteroid,25000.0,30000.0,-70000.0,cylinder,tiny.dist,35,10000.0,160312.2,240.8,50.2,     ?,     ?
+	Line 41:
+		resources    nebula,0.0,0.0,0.0,nebula,nebula.dist,150,100000.0,100000.0,90000.0,20000,32,?
+
+		Now parsing:
+			D:\Google Drive\Working\Homeworld\HWR_HWClassicMaps\HWR_HWClassicMaps_source\Source\Amphion4\nebula.dist
+		Line 1:
+			Nebula0      10
+
+		Line 2:
+			Nebula1      37
+
+		Line 3:
+			Nebula2      56
+
+		Line 4:
+			Nebula3      37
+
+		Line 5:
+			Nebula4      10
+
+	Line 42:
+		resources    asteroid,0.0,-20000.0,20000.0,sphere,pebble.dist,6,2000.0,2000.0,0.0,0.0,0,?
+
+		Now parsing:
+			D:\Google Drive\Working\Homeworld\HWR_HWClassicMaps\HWR_HWClassicMaps_source\Source\Amphion4\pebble.dist
+		Line 1:
+			Asteroid0       10
+
+		Line 2:
+			Asteroid1       1
+
+		Line 3:
+			Asteroid2       1
+
+		Line 4:
+			Asteroid3       1
+
+		Line 5:
+			Asteroid4       1
+
+	Line 43:
+		resources    asteroid,5000.0,-10000.0,-20000.0,sphere,pebble.dist,6,2000.0,2000.0,0.0,0.0,0,?
+	Line 44:
+		resources    asteroid,-5000.0,-6000.0,-10000.0,sphere,pebble.dist,6,2000.0,2000.0,0.0,0.0,0,?
+	Line 45:
+		resources    asteroid,5000.0,-1000.0,-8000.0,sphere,pebble.dist,6,2000.0,2000.0,0.0,0.0,0,?
+	Line 46:
+		resources    asteroid,0.0,10000.0,-1000.0,sphere,pebble.dist,6,2000.0,2000.0,0.0,0.0,0,?
+	Line 47:
+		resources    asteroid,-20000.0,20000.0,-5000.0,sphere,pebble.dist,6,2000.0,2000.0,0.0,0.0,0,?
+	Line 48:
+		resources    asteroid,-20000.0,40000.0,-10000.0,sphere,pebble.dist,6,2000.0,2000.0,0.0,0.0,0,?
+	Line 49:
+		resources    asteroid,-20000.0,-40000.0,-19000.0,sphere,pebble.dist,6,2000.0,2000.0,0.0,0.0,0,?
+	Line 50:
+		resources    asteroid,29000.0,-40000.0,-19000.0,sphere,pebble.dist,6,2000.0,2000.0,0.0,0.0,0,?
+	Line 51:
+		resources    asteroid,64319.0,5000.0,-5000.0,sphere,pebble.dist,6,2000.0,2000.0,0.0,0.0,6,?
+	Line 52:
+		resources    asteroid,-64319.0,-5000.0,-5000.0,sphere,pebble.dist,6,2000.0,2000.0,0.0,0.0,6,?
+	Line 53:
+		derelict      junk0_antenna, 64916.9, 43758.6, 79194, 99.9, 51.8,0
+	Line 54:
+		derelict      junk0_antenna,-28884.5,-59138.9, 15791.7,-46.8, 129.8,0
+	Line 55:
+		derelict      junk0_antenna, 26838.2, 67711.6, 28184.6, 27, 112.6,0
+	Line 56:
+		derelict      junk0_antenna, 94626.2, 53874,-23881.5, 5.5,-16.9,0
+	Line 57:
+		derelict      junk0_antenna,-92361.6, 29559.1, 79898.1, 57.5, 137.8,0
+	Line 58:
+		derelict      junk0_antenna, 54319.3,-28379.2,-17600.7,-89.1, 22.8,0
+	Line 59:
+		derelict      junk0_antenna, 1348.3,-65291.3,-44388.6, 148.6,-172.4,0
+	Line 60:
+		derelict      junk0_antenna, 23620.1,-38674.1, 70461.9, 65.2,-106.3,0
+	Line 61:
+		derelict      junk0_antenna,-39993.5,-85455.3,-1328.3, 17,-35.2,0
+	Line 62:
+		derelict      junk0_antenna,-36350.8,-72872.7,-34608.2,-93.6,-45.8,0
+	Line 63:
+		derelict      junk0_antenna, 65534.3, 10803, 21371.4, 111.5,-144.7,0
+	Line 64:
+		derelict      junk0_antenna, 20097.5, 19452.2, 53407.1,-77.4,-67.4,0
+	Line 65:
+		derelict      junk0_antenna,-48389, 9946, 1823.3,-23.5, 78.6,0
+	Line 66:
+		derelict      junk0_antenna,-29898.7, 94392.1, 3734,-29.8, 12.6,0
+	Line 67:
+		derelict      junk0_antenna,-24451.5,-72462.4, 30835.5, 124.8, 108.7,0
+	Line 68:
+		derelict      junk0_antenna,-80883, 23077.2, 40481.3, 21.8, 28.5,0
+	Line 69:
+		derelict      junk0_antenna, 40166.8,-57381.6,-91213.5,-139, 164.4,0
+	Line 70:
+		derelict      junk0_antenna, 47796.6, 51052.1, 64515.7, 104.5, 11.3,0
+	Line 71:
+		derelict      junk0_antenna, 65668.4,-17919.6,-7500, 54.4, 90.3,0
+	Line 72:
+		derelict      junk0_antenna, 8862.3, 7650.1, 25336.8, 148.3,-76,0
+	Line 73:
+		derelict      junk0_antenna,-88486.3,-44957.6, 92120, 62.3,-53.2,0
+	Line 74:
+		derelict      junk0_antenna,-26018.6,-34631.1,-57048.1, 103.6, 27.7,0
+	Line 75:
+		derelict      junk0_antenna,-51703.8, 37224.5, 17985.9,-37, 151.6,0
+	Line 76:
+		derelict      junk0_antenna,-69358.2,-50754.9,-20248.9,-30.2, 76.5,0
+	Line 77:
+		derelict      junk0_antenna, 79616.7, 5323.4,-22492.6, 179, 89.7,0
+	Line 78:
+		derelict      junk0_antenna, 29026.6, 96229.4,-37617.6, 93.3,-136.3,0
+	Line 79:
+		derelict      junk0_antenna, 13959.2, 21387.6, 22039.3,-69.8,-126,0
+	Line 80:
+		derelict      junk0_antenna,-21110.8, 64561.4,-46373.6,-64.2, 37.4,0
+	Line 81:
+		derelict      junk0_antenna,-13434.6, 67192,-56242.9,-83.2,-143.7,0
+	Line 82:
+		derelict      junk0_antenna, 96428.4, 93145.1, 74271.9,-8.2,-54.3,0
+	Line 83:
+		derelict      junk0_antenna,-68690.1, 28613, 22531.3,-127.4, 47.8,0
+	Line 84:
+		derelict      junk0_antenna, 1163.2,-89076.8,-25009.8, 17.6, 72.7,0
+	Line 85:
+		derelict      junk0_antenna,-97425.1, 30003.6, 22802.9,-12, 169.4,0
+	Line 86:
+		derelict      junk0_antenna,-37192.1, 96252.8,-41789.6, 48.7, 64.2,0
+	Line 87:
+		derelict      junk0_antenna,-52874.5, 18568.4, 40458, 83.5,-27.1,0
+	Line 88:
+		derelict      junk0_antenna, 98147.2, 86279.8,-50005.4,-111.6,-97.2,0
+	Line 89:
+		derelict      junk0_antenna, 25984.8,-1261.4,-296.7, 132.1,-169,0
+	Line 90:
+		derelict      junk0_antenna, 17911.1, 36314.3,-78087.3,-54.3,-85.7,0
+	Line 91:
+		derelict      junk0_antenna,-13691.5,-83453.1,-59.5,-26.9, 158.5,0
+	Line 92:
+		derelict      junk0_antenna,-76350.2,-70794.6,-37082.8,-176.7,-37.6,0
+	Line 93:
+		derelict      junk0_antenna,-16739.9,-5997.4,-87358.1, 15.1, 22.5,0
+	Line 94:
+		derelict      junk0_antenna,-45390.9,-65283.8, 1218.6, 56.3,-4.7,0
+	Line 95:
+		derelict      junk0_antenna,-48113.9,-86533.6, 28224.9, 48.7,-16.7,0
+	Line 96:
+		derelict      junk0_antenna,-15395.2, 18899.1,-23839.8, 159.4, 140.6,0
+	Line 97:
+		derelict      junk0_antenna,-71009.4, 52025.9,-47072.7, 130.1, 164.8,0
+	Line 98:
+		derelict      junk0_antenna, 68898.1, 3470.3, 60093.1,-174.1,-8.9,0
+	Line 99:
+		derelict      junk0_antenna, 25010.7,-34130,-44317.8,-65.8, 35.3,0
+	Line 100:
+		derelict      junk0_antenna,-58929.4, 75185.3,-69749, 35.4,-39.2,0
+	Line 101:
+		derelict      junk0_antenna, 45891.1,-75335.9,-35006.9, 177.2,-102,0
+	Line 102:
+		derelict      junk0_antenna,-40100.8,-54786.7, 90625.8, 111.9, 29.8,0
+	Line 103:
+		derelict      junk0_antenna,-35040.4, 95925.5, 15808.6,-9.6, 131.7,0
+	Line 104:
+		derelict      junk0_antenna,-93769.1, 58513, 43841.9, 92.1,-159.2,0
+	Line 105:
+		derelict      junk0_antenna, 44801.6,-20602.3,-53602.2,-37,-18.4,0
+	Line 106:
+		derelict      junk0_antenna, 29858.3, 53206.9,-86968.3, 123.4, 143.9,0
+	Line 107:
+		derelict      junk0_antenna, 9135.2, 91426,-54774.8, 55.2,-140.6,0
+	Line 108:
+		derelict      junk0_antenna,-53605.8, 69956.6,-86289.7, 132.1,-167.1,0
+	Line 109:
+		derelict      junk0_antenna, 64686.7, 99332.1,-52174.8,-58.6,-45.4,0
+	Line 110:
+		derelict      junk0_antenna,-15853.3,-88662.1, 75650.6, 121.4, 90.3,0
+	Line 111:
+		derelict      junk0_antenna,-26935.1, 5789.4, 83678,-16.8,-165.5,0
+	Line 112:
+		derelict      junk0_antenna,-19005.8, 51215.3, 14758.5, 19.8, 163.6,0
+	Line 113:
+		derelict      junk0_antenna,-27363.6,-16802.3,-26916.2,-47.2, 115.3,0
+	Line 114:
+		derelict      junk0_antenna,-68739.6, 94117.8,-45052.6, 158.8,-109.7,0
+	Line 115:
+		derelict      junk0_antenna,-49599.1, 58058.6, 74038.1,-174.1, 82.4,0
+	Line 116:
+		derelict      junk0_antenna, 82589.4, 84613.3, 13.8,-138.4,-26.1,0
+	Line 117:
+		derelict      junk0_antenna, 63865.6, 45350.1, 79107.1, 124.7,-98.6,0
+	Line 118:
+		derelict      junk0_fin1, 7308.2, 73140.8,-43819.9, 55.2,-140.6,0
+	Line 119:
+		derelict      junk0_fin1,-42884.6, 55965.3,-69031.8, 132.1,-167.1,0
+	Line 120:
+		derelict      junk0_fin1, 51749.4, 79465.7,-41739.8,-58.6,-45.4,0
+	Line 121:
+		derelict      junk0_fin1,-12682.6,-70929.7, 60520.5, 121.4, 90.3,0
+	Line 122:
+		derelict      junk0_fin1,-21548.1, 4631.5, 66942.4,-16.8,-165.5,0
+	Line 123:
+		derelict      junk0_fin1,-15204.6, 40972.3, 11806.8, 19.8, 163.6,0
+	Line 124:
+		derelict      junk0_fin1,-21890.8,-13441.8,-21533,-47.2, 115.3,0
+	Line 125:
+		derelict      junk0_fin1,-54991.7, 75294.3,-36042.1, 158.8,-109.7,0
+	Line 126:
+		derelict      junk0_fin1,-39679.3, 46446.9, 59230.5,-174.1, 82.4,0
+	Line 127:
+		derelict      junk0_fin1, 66071.5, 67690.6, 11.1,-138.4,-26.1,0
+	Line 128:
+		derelict      junk0_fin1, 51092.5, 36280.1, 63285.6, 124.7,-98.6,0
+	Line 129:
+		derelict      junk0_fin1, 66256.4, 53346.9, 44409.5,-99.5, 9.5,0
+	Line 130:
+		derelict      junk0_fin1, 10336.5,-53678.6,-30158.6, 11.6,-141.9,0
+	Line 131:
+		derelict      junk0_fin1,-18509.2, 74479.8, 502.9,-174.3, 19.1,0
+	Line 132:
+		derelict      junk0_fin1,-30628.8,-67384.2, 60763,-28.5,-130.2,0
+	Line 133:
+		derelict      junk0_fin1, 42858.5, 67837.4,-71952.9,-117, 97.9,0
+	Line 134:
+		derelict      junk0_fin1,-71578.8, 64489.3, 78071.9, 85.6,-14.3,0
+	Line 135:
+		derelict      junk0_fin1,-45900.1,-47800.9,-59295.7,-37.8,-31,0
+	Line 136:
+		derelict      junk0_fin1,-65882.8,-47950.4, 21445.9, 14.2, 77.1,0
+	Line 137:
+		derelict      junk0_fin1,-30888.5, 75875.4,-16457.3,-105,-110.1,0
+	Line 138:
+		derelict      junk0_fin1,-23003.5, 13685.1, 25718.9,-30, 158.8,0
+	Line 139:
+		derelict      junk0_fin1,-70554.1,-55792,-29463.1, 23.2, 27.6,0
+	Line 140:
+		derelict      junk0_fin1,-70997.6, 63565.9,-41618.8, 161.1,-100.9,0
+	Line 141:
+		derelict      junk0_fin1,-58187.8, 27070.1,-37932,-123.2, 104.3,0
+	Line 142:
+		derelict      junk0_fin1, 984.5, 19143.1, 17079.3, 143.9,-159.5,0
+	Line 143:
+		derelict      junk0_fin1,-24424.4,-73634.1, 62422.9, 2.3, 33.3,0
+	Line 144:
+		derelict      junk0_fin1,-39801.4, 8649.2,-72884.1,-113.1, 10.8,0
+	Line 145:
+		derelict      junk0_fin1,-19742.4,-56469.1, 37295, 100.7, 104.3,0
+	Line 146:
+		derelict      junk0_fin1,-12193.1, 38597.7,-61050, 23.1,-116.8,0
+	Line 147:
+		derelict      junk0_fin1, 43035.9,-32968,-68716.1,-44.6,-.9,0
+	Line 148:
+		derelict      junk0_fin1,-23622.3, 21283.7,-54303.2,-146.4, 46.9,0
+	Line 149:
+		derelict      junk0_fin1,-53755.6,-132.8,-74604.5,-89.1,-122.7,0
+	Line 150:
+		derelict      junk0_fin1,-12614.3, 2283.2,-79372.2,-59.6,-171.6,0
+	Line 151:
+		derelict      junk0_fin1, 44873.6,-72934.2, 74541.8,-179.9,-67.9,0
+	Line 152:
+		derelict      junk0_fin1,-51288.3,-52046.2, 74670.7,-70.2,-138.7,0
+	Line 153:
+		derelict      junk0_fin1,-55930.3,-36811.7,-74958.6, 63.3,-144.7,0
+	Line 154:
+		derelict      junk0_fin1, 32142.7, 52934.1,-66090.5,-114.6,-112.5,0
+	Line 155:
+		derelict      junk0_fin1,-63364.4, 19826.6,-67881.3,-44.2, 13.8,0
+	Line 156:
+		derelict      junk0_fin1,-49127.8,-32356, 17084.6, 91.1, 67.4,0
+	Line 157:
+		derelict      junk0_fin1,-79469.8, 73103.7, 37404.6, 26, 14.6,0
+	Line 158:
+		derelict      junk0_fin1, 56999.8,-14215.3, 33092.2, 44.6, 40.0,0
+	Line 159:
+		derelict      junk0_fin1,-43631.2,-68826.1, 46436.2,-116.1, 60.4,0
+	Line 160:
+		derelict      junk0_fin1, 79031.3, 31838.6,-1514.8,-120, 57.6,0
+	Line 161:
+		derelict      junk0_fin1, 64922.8, 1722.7, 46157,-41.3, 55.6,0
+	Line 162:
+		derelict      junk0_fin1,-20621.1,-31430.7,-45027.4,-98.6,-141.8,0
+	Line 163:
+		derelict      junk0_fin1, 64620, 19467, 62416.4,-92.5, 62,0
+	Line 164:
+		derelict      junk0_fin1, 51860.8,-55478.1, 46919.6, 25.7,-15.8,0
+	Line 165:
+		derelict      junk0_fin1,-70955.6, 53654.7, 77470.3, 173.1,-56.4,0
+	Line 166:
+		derelict      junk0_fin1,-60798.2,-18477.6,-1152.3,-144, 119,0
+	Line 167:
+		derelict      junk0_fin1, 24436.2,-44434.8,-72519,-148.1, 3.3,0
+	Line 168:
+		derelict      junk0_fin1,-69467.4,-77821.6, 72934.5, 104.4,-141.5,0
+	Line 169:
+		derelict      junk0_fin1,-52808.1,-33990.9, 40016.7,-127.4, 87.9,0
+	Line 170:
+		derelict      junk0_fin1, 58890.4, 57378.4,-13485.8,-34.4, 111.8,0
+	Line 171:
+		derelict      junk0_fin1,-38635.7,-77172,-28448,-36.1, 43.6,0
+	Line 172:
+		derelict      junk0_fin1, 38718.6, 33792.4,-50423.1, 159.3, 91.4,0
+	Line 173:
+		derelict      junk0_fin1, 76162.2,-51604.8, 24967.8,-147.2, 82.2,0
+	Line 174:
+		derelict      junk0_fin1, 43366.7, 41371.5,-17730.9, 124.1,-25.5,0
+	Line 175:
+		derelict      junk0_fin1,-36549, 57114.8, 27051.2, 12.5,-23.8,0
+	Line 176:
+		derelict      junk0_fin1,-77409.4,-39151.7, 72393.6, 160.2,-127,0
+	Line 177:
+		derelict      junk0_fin1, 35252.1,-37077.6, 65995.5, 160.8,-35.3,0
+	Line 178:
+		derelict      junk0_fin1, 60052.4,-8763.8, 52909.3,-117.5, 154.5,0
+	Line 179:
+		derelict      junk0_fin1, 1243.3, 46784.8,-11099.6,-171.7, 128.9,0
+	Line 180:
+		derelict      junk0_fin1, 30820.5, 37330.4,-568.5,-176,-127.1,0
+	Line 181:
+		derelict      junk0_fin1, 26258.5,-35799.9, 59271.8,-84.1, 37.9,0
+	Line 182:
+		derelict      junk0_fin1, 18869.5,-62793.1, 27731.6, 68.5, 148.6,0
+	Line 183:
+		derelict      junk0_fin1, 7788, 12697.5, 54521.7,-156.1, 104,0
+	Line 184:
+		derelict      junk0_fin1, 34580.2, 49723.2,-28762.5,-125.7,-100.1,0
+	Line 185:
+		derelict      junk0_fin1, 13478.3,-20662.4, 3468.5, 9.1,-31.2,0
+	Line 186:
+		derelict      junk0_fin1,-27760.2,-37982, 58533, 86.8, 122.9,0
+	Line 187:
+		derelict      junk0_fin1,-41368,-51787.8, 3836.8,-166.2, 38.1,0
+	Line 188:
+		derelict      junk0_fin1, 27541.5,-42988.9, 30858.4, 61.8, 162.5,0
+	Line 189:
+		derelict      junk0_fin1,-36291.7, 27944.4, 79757.5, 43.3, 48.5,0
+	Line 190:
+		derelict      junk0_fin1, 35085.1,-39096.3, 59610.1,-101.3, 12.9,0
+	Line 191:
+		derelict      junk0_fin1,-48177.7,-40811.6, 79267.6, 174.4, 62.1,0
+	Line 192:
+		derelict      junk0_fin1,-34123.6,-29321.7,-56158.9, 63.8, 8.2,0
+	Line 193:
+		derelict      junk0_fin2,-73754.6, 42129.8,-68189.4,-46.7,-67.3,0
+	Line 194:
+		derelict      junk0_fin2,-15172.5, 41598.5,-52239.9,-157.2, 63.3,0
+	Line 195:
+		derelict      junk0_fin2,-32094.4, 23985.4,-54263.9,-136.2, 121.3,0
+	Line 196:
+		derelict      junk0_fin2, 68256.7,-5290.7, 78232.5, 24.7,-95.8,0
+	Line 197:
+		derelict      junk0_fin2,-47113.4,-53496.8, 25799.8,-174.3,-98.5,0
+	Line 198:
+		derelict      junk0_fin2,-18611.3,-35663.2, 42279.7, 94.3,-71.4,0
+	Line 199:
+		derelict      junk0_fin2,-50071.2, 73462.6, 50664,-57.7, 155.4,0
+	Line 200:
+		derelict      junk0_fin2,-64145.7, 25588.4, 44579.4, 15.7, 176.8,0
+	Line 201:
+		derelict      junk0_fin2, 17928.6, 58174,-29603.1, 79.1,-40.8,0
+	Line 202:
+		derelict      junk0_fin2, 7190.6, 21852.9, 24965.8, 125.3,-67.8,0
+	Line 203:
+		derelict      junk0_fin2, 43438.8, 70979.3,-56026.8, 71.7,-81.4,0
+	Line 204:
+		derelict      junk0_fin2, 72341, 72300.1, 55928.8,-145.2, 111.8,0
+	Line 205:
+		derelict      junk0_fin2,-61831.6, 46751.5, 36773.8,-156.1, 14.7,0
+	Line 206:
+		derelict      junk0_fin2,-52844.9,-618.8,-19884.8,-35.3, 167.2,0
+	Line 207:
+		derelict      junk0_fin2, 36482.6,-67605.1,-41914.3, 155.9,-120.7,0
+	Line 208:
+		derelict      junk0_fin2, 43888.8, 76328.6, 47827.6, 7,-65.5,0
+	Line 209:
+		derelict      junk0_fin2,-67097.2,-25654.9,-41397.7, 22.3, 61,0
+	Line 210:
+		derelict      junk0_fin2,-11295.9, 54656,-5475.1, 18.6,-44.1,0
+	Line 211:
+		derelict      junk0_fin2, 79606.9,-73931.2, 7923.3, 160.6,-39.7,0
+	Line 212:
+		derelict      junk0_fin2,-830.5,-8341.6, 78322.5,-35.9,-90.6,0
+	Line 213:
+		derelict      junk0_fin2, 63928.8, 55564.2,-27945.6,-131.4,-4.4,0
+	Line 214:
+		derelict      junk0_fin2, 61759.5,-2088.1, 77491.8, 169.6,-169.9,0
+	Line 215:
+		derelict      junk0_fin2,-34141.3,-47139.5,-9092.2,-66.6, 78.8,0
+	Line 216:
+		derelict      junk0_fin2,-50645, 24773.9,-72039.5,-135.2, 160.4,0
+	Line 217:
+		derelict      junk0_fin2,-4456.9,-62481.8,-64198.1, 48.8, 160.6,0
+	Line 218:
+		derelict      junk0_fin2, 78743, 11883.1,-79187.4,-42.7,-89.2,0
+	Line 219:
+		derelict      junk0_fin2, 10784.7,-53870.9, 26961.2, 103.8,-33.6,0
+	Line 220:
+		derelict      junk0_fin2, 8117.1, 74659.4,-20211.6,-45.3, 130.7,0
+	Line 221:
+		derelict      junk0_fin2, 34542.6, 59816.4, 51016.6,-59.3, 82,0
+	Line 222:
+		derelict      junk0_fin2, 14576.7,-68196,-61215.7,-161.7, 88.7,0
+	Line 223:
+		derelict      junk0_fin2, 12432,-48265.8, 58505.3, 103.1, 69.1,0
+	Line 224:
+		derelict      junk0_fin2,-8372.2,-27200.8, 19353.1, 46.2,-156.8,0
+	Line 225:
+		derelict      junk0_fin2,-69775.7,-25431.8,-18629.4,-25.8, 90.7,0
+	Line 226:
+		derelict      junk0_fin2,-13317.7,-34591.1, 68203.8,-74,-156.6,0
+	Line 227:
+		derelict      junk0_fin2,-28652.7, 48035.1,-69538, 144.7,-72.8,0
+	Line 228:
+		derelict      junk0_gunammo,-18761, 37780.7,-39636.1, 58.5, 79.7,0
+	Line 229:
+		derelict      junk0_gunammo, 65086.9, 23085.1, 46406.1, 10.9, 61.5,0
+	Line 230:
+		derelict      junk0_gunammo, 13109.1,-23684.2, 7321.9, 170.6,-135.6,0
+	Line 231:
+		derelict      junk0_gunammo, 9255.4,-47345.2,-43528.4,-36.6, 155.3,0
+	Line 232:
+		derelict      junk0_gunammo, 61321.9, 54494.7, 49333,-162, 41.9,0
+	Line 233:
+		derelict      junk0_gunammo,-16343.6,-6676.1, 47848,-115.6,-46,0
+	Line 234:
+		derelict      junk0_gunammo,-50840.1, 23720,-51560.7, 179.1, 70.1,0
+	Line 235:
+		derelict      junk0_gunammo,-21289, 25079, 6825.6, 76.4, 102.7,0
+	Line 236:
+		derelict      junk0_gunammo,-8864,-18297.1, 67757.4, 57.7, 50.4,0
+	Line 237:
+		derelict      junk0_gunammo,-28148,-33128.3,-37199.7,-59.9,-8.2,0
+	Line 238:
+		derelict      junk0_gunammo,-6693.9, 11525.5,-25709.7, 115.8, 148.6,0
+	Line 239:
+		derelict      junk0_gunammo,-4663.3,-6819.5,-21414.3, 162.5,-167.3,0
+	Line 240:
+		derelict      junk0_gunammo,-31418.4,-4296.1,-23259.4,-122.6,-74.6,0
+	Line 241:
+		derelict      junk0_gunammo,-40941.4,-54425.8,-4274, 135.2, 123.1,0
+	Line 242:
+		derelict      junk0_gunammo, 47041.9, 25250, 38322.2, 161.3, 97.2,0
+	Line 243:
+		derelict      junk0_gunammo, 68361, 39273.6,-45191.7,-37.6,-56.8,0
+	Line 244:
+		derelict      junk0_gunammo, 1246.6, 3734.2,-15426.5, 4.1,-113.5,0
+	Line 245:
+		derelict      junk0_gunammo, 16848.4, 64714.6,-49224.7,-141.1,-159.5,0
+	Line 246:
+		derelict      junk0_gunammo, 66548.8,-13651.7, 26169.6,-26.5, 42.7,0
+	Line 247:
+		derelict      junk0_gunammo, 34199.9, 24110.3, 3237.6, 178.6,-53.7,0
+	Line 248:
+		derelict      junk0_gunammo,-23593.5,-6032.4, 56734.8,-8.6, 12.6,0
+	Line 249:
+		derelict      junk0_gunammo, 8981.1,-36986.3, 1786.3,-87.7, 160.8,0
+	Line 250:
+		derelict      junk0_gunammo,-7304, 2213.3,-34345,-53, 61.2,0
+	Line 251:
+		derelict      junk0_gunammo, 46457,-23119.9,-33694.6, 135.8,111.3,0
+	Line 252:
+		derelict      junk0_gunammo, 11024,-34484.7,-14109.6,-140.1, 62,0
+	Line 253:
+		derelict      junk0_gunammo,-58595.9,-27370.4, 62284.3, 168.2,-154.8,0
+	Line 254:
+		derelict      junk0_gunammo,-38959.8, 16174.8,-43212.1,-46.7,-1.9,0
+	Line 255:
+		derelict      junk0_gunammo,-54076.8, 25209.8,-48869.4, 120.1, 171.4,0
+	Line 256:
+		derelict      junk0_gunammo,-38250.3,-1573.7, 21893.8,-82.9, 12.4,0
+	Line 257:
+		derelict      junk0_gunammo, 32252, 69158.1,-4517.8, 111.5,-100.4,0
+	Line 258:
+		derelict      junk0_gunammo,-48174.5, 17500.5,-38234.2,-119.2, 8.5,0
+	Line 259:
+		derelict      junk0_gunammo, 30577.2, 45164,-20480.1, 119.9,-70.5,0
+	Line 260:
+		derelict      junk0_gunammo, 54921.3, 43686.8,-38213.9,-142.8,-119.1,0
+	Line 261:
+		derelict      junk0_gunammo,-58152.8,-58367.8,-35719.7, 98.8, 153.7,0
+	Line 262:
+		derelict      junk0_gunammo,-16.4,-28604.5, 14973.4, 174.7, 16.3,0
+	Line 263:
+		derelict      junk1_parta, 5584.8, 11244.6, 57967.6, 5.3, 93,0
+	Line 264:
+		derelict      junk1_parta,-23435.7,-6779.3, 59795.7, 21.4,-96.2,0
+	Line 265:
+		derelict      junk1_parta,-37300.6, 42522.9,-58733.4, 98.6, 162.2,0
+	Line 266:
+		derelict      junk1_parta,-14866.5, 29002.4, 12982.9,-142.8,-104.6,0
+	Line 267:
+		derelict      junk1_parta, 33299.7, 66391.1,-32344.8, 68.1,-34.2,0
+	Line 268:
+		derelict      junk1_parta, 62391.6, 29889.3,-22661.2, 137.8,-3,0
+	Line 269:
+		derelict      junk1_parta,-30494.1,-22261.9, 58716.5,-128.6, 103.6,0
+	Line 270:
+		derelict      junk1_parta,-18418.1, 37401.2, 64554.1,-52.7, 8.7,0
+	Line 271:
+		derelict      junk1_parta,-36737.2, 31980.3, 34451.9, 122.4,-73.7,0
+	Line 272:
+		derelict      junk1_parta,-32196.5,-2508.6,-26981.3,-138.6,-64.4,0
+	Line 273:
+		derelict      junk1_parta, 49151.5,-23376.2,-21407.1,-130.6,-118.8,0
+	Line 274:
+		derelict      junk1_parta, 48323.1, 29609.5, 634.3, 40.7,-51.5,0
+	Line 275:
+		derelict      junk1_parta,-37797.4, 37826.9,-61085.8, 43.7, 167.6,0
+	Line 276:
+		derelict      junk1_parta,-2112, 30763.4,-7373.4, 33.9,-105.8,0
+	Line 277:
+		derelict      junk1_parta, 10708.3,-18037.1,-57454,-23.2, 22.5,0
+	Line 278:
+		derelict      junk1_parta, 19038.5, 14582.4, 4358.2,-69.6, 156.5,0
+	Line 279:
+		derelict      junk1_parta, 24035.2, 32182.6, 46286.4,-50.4, 156.6,0
+	Line 280:
+		derelict      junk1_parta, 57420.4, 65379.1, 19140.9,-15.9,-93.3,0
+	Line 281:
+		derelict      junk1_parta, 15436.3,-23.6, 1914, 49.7, 59.4,0
+	Line 282:
+		derelict      junk1_parta,-7902.7, 47212.4,-18951.9, 145.9,-56,0
+	Line 283:
+		derelict      junk1_parta, 39864,-8263,-63499.9, 19.8,-104.9,0
+	Line 284:
+		derelict      junk1_parta, 863.6, 47949.8, 2727.6,-132.5, 46.4,0
+	Line 285:
+		derelict      junk1_parta,-53217.4, 30322.3,-52278, 95.9, 148.1,0
+	Line 286:
+		derelict      junk1_parta,-19443.7, 18329.7, 48213.8,-26.2,-168.6,0
+	Line 287:
+		derelict      junk1_parta, 7980.2,-8382.9, 14174.5,-44.6, 98.9,0
+	Line 288:
+		derelict      junk1_parta,-17632, 6024.3,-69259.7, 126.5,-113.9,0
+	Line 289:
+		derelict      junk1_parta, 40382,-3903.7,-59317, 95.2, 169.3,0
+	Line 290:
+		derelict      junk1_parta,-17840.5, 4701.8, 45552.5, 157.3,-71.5,0
+	Line 291:
+		derelict      junk1_parta,-36137.8,-4612.8, 38616.1,-120.3,-141.6,0
+	Line 292:
+		derelict      junk1_parta,-34228.4,-21911, 37720,-129.4, 117.6,0
+	Line 293:
+		derelict      junk1_parta,-25943.2,-46168.3, 21197.5, 179.3,-91.9,0
+	Line 294:
+		derelict      junk1_parta, 49338.5, 59033.8, 24949,-163.2, 114.5,0
+	Line 295:
+		derelict      junk1_parta, 50176, 65049.3, 33819.1, 157.9, 58.4,0
+	Line 296:
+		derelict      junk1_parta,-65400.3,-56432.2, 35395.2,-64.2,-147.4,0
+	Line 297:
+		derelict      junk1_parta, 57816.7, 23499.2, 39353.3, 91.7,-46.3,0
+	Line 298:
+		derelict      junk1_parta,-60787.4,-31.7, 40475.6,-30.5,-141.8,0
+	Line 299:
+		derelict      junk1_parta, 26775.1, 11042.9,-61534.8, 136.9,-42.1,0
+	Line 300:
+		derelict      junk1_parta,-37934.9, 32821.8, 22681.9,-174.8, 41.7,0
+	Line 301:
+		derelict      junk1_parta, 43859, 38507, 4925.7, 87.9, 80,0
+	Line 302:
+		derelict      junk1_parta, 23588.2, 42085.4,-61607.9,-90.8,-162.5,0
+	Line 303:
+		derelict      junk1_parta, 40700.6, 22245,-44076.5, 125.5,-109.7,0
+	Line 304:
+		derelict      junk1_parta, 1068.3, 37150,-4316.4, 48.9, 55.1,0
+	Line 305:
+		derelict      junk1_parta, 36568.5, 35700.7, 17377.7, 35, 145.2,0
+	Line 306:
+		derelict      junk1_parta,-41040.3, 25902.6,-12854.4, 106.8,-40.3,0
+	Line 307:
+		derelict      junk1_parta,-3819.1, 35969.9, 64250.6, 134.4, 3.5,0
+	Line 308:
+		derelict      junk1_parta,-45802.8, 38788.7, 57691.4, 143.5, 22.5,0
+	Line 309:
+		derelict      junk1_parta, 2517.5, 45363.6, 55859.7,-47.6,-88.3,0
+	Line 310:
+		derelict      junk1_parta, 16508.6, 47875,-32629, 130.2,-98.4,0
+	Line 311:
+		derelict      junk1_parta, 44632.2,-52030.3,-53809.3, 56.4, 79.7,0
+	Line 312:
+		derelict      junk1_parta, 23727.2, 60911.7, 69183.7,-67.2,-67.4,0
+	Line 313:
+		derelict      junk1_parta,-19534.4, 21216.4, 49209.6,-169.1,-53.6,0
+	Line 314:
+		derelict      junk1_parta, 32104.1,-29604.8,-58109.5,-76, 9.3,0
+	Line 315:
+		derelict      junk1_parta,-45342.2,-37566.2, 39175.4,-154.3, 75.4,0
+	Line 316:
+		derelict      junk1_parta,-58378.9,-2369.7,-2173.4, 67.3, 173.9,0
+	Line 317:
+		derelict      junk1_parta, 11360.3, 50417.2,-54047.3, 173.6, .6,0
+	Line 318:
+		derelict      junk1_partb, 36302.8, 51793.2, 45713.9,-10.4, 38.3,0
+	Line 319:
+		derelict      junk1_partb, 22048.9,-38010.8, 65323.8, 58.9,-58.3,0
+	Line 320:
+		derelict      junk1_partb, 19529.4,-36006.5,-11526.5, 44.6,-86,0
+	Line 321:
+		derelict      junk1_partb, 68336.2, 3561.9, 64301.9, 15.2,-90,0
+	Line 322:
+		derelict      junk1_partb, 44348.9, 36336.7,-3961.6, 125.5, 53.4,0
+	Line 323:
+		derelict      junk1_partb, 19783.9,-2299.8,-58557.3,-126, 163.9,0
+	Line 324:
+		derelict      junk1_partb,-41210.1,-54012.6, 13165.6,-171.2, 160,0
+	Line 325:
+		derelict      junk1_partb,-13284.5, 24683.5, 42157.7,-17.6, 134.5,0
+	Line 326:
+		derelict      junk1_partb,-13826.1, 64230.8, 2248.9,-33.1,-111.1,0
+	Line 327:
+		derelict      junk1_partb,-31971.2,-60931.1,-10973.9, 151.3, 141.6,0
+	Line 328:
+		derelict      junk1_partb, 40428, 10535.9,-58868.7, 31.3,-21.8,0
+	Line 329:
+		derelict      junk1_partb,-45991.8, 41252.9, 27107.9,-46.4, 138.7,0
+	Line 330:
+		derelict      junk1_partb, 56397.1, 41617.9,-4082.4,-114.1, 48.5,0
+	Line 331:
+		derelict      junk1_partb, 64137.2,-35965.3, 24255.7, 12.6, 169,0
+	Line 332:
+		derelict      junk1_partb,-64843.4,-44499.6, 28786.7,-70,-85.5,0
+	Line 333:
+		derelict      junk1_partb, 19911.3,-25821.9, 46427.9,-40.6, 11.1,0
+	Line 334:
+		derelict      junk1_partb,-55675,-9421.8,-19195.8, 91.5, 85,0
+	Line 335:
+		derelict      junk1_partb, 52650.1, 68974.5,-11999.4,-98.2, 174.5,0
+	Line 336:
+		derelict      junk1_partb, 33376.2,-60320.3, 9735.2, 169.9, 14,0
+	Line 337:
+		derelict      junk1_partb, 26309.8,-52195.1,-62919.4, 2,-75,0
+	Line 338:
+		derelict      junk1_partb, 23951.9,-20870.7,-37143.9, 89.6,-139.1,0
+	Line 339:
+		derelict      junk1_partb,-4704,-1297.1, 15817.4,-35.3,-99.1,0
+	Line 340:
+		derelict      junk1_partb,-24825.5,-7189.9, 4767.8, 62.9, 1.3,0
+	Line 341:
+		derelict      junk1_partb,-42724.1,-60083.4,-24283.6,-124.5,-42,0
+	Line 342:
+		derelict      junk1_partb, 23959.3, 51226.2, 20207.9,-57, 87.9,0
+	Line 343:
+		derelict      junk1_partb, 60990.9, 16471.7,-52049.6,-131.1, 165.5,0
+	Line 344:
+		derelict      junk1_partb,-19673,-54434.6, 31863.2,-72.5,-179.6,0
+	Line 345:
+		derelict      junk1_partb, 9069.2,-8266.3,-31326.9, 66.1,-88.2,0
+	Line 346:
+		derelict      junk1_partb,-62283.6, 16761.5,-46818, 91.3,-13,0
+	Line 347:
+		derelict      junk1_partb, 35838.3,-6029.5,-40668.9, 63.7, 159.8,0
+	Line 348:
+		derelict      junk1_partb,-61703.4, 59557,-63812.8,-170.5, 174.5,0
+	Line 349:
+		derelict      junk1_partb,-39862.8,-2085.4, 21976.3, 131.5,-147.2,0
+	Line 350:
+		derelict      junk1_partb,-46720.2,-58434.7, 54288.2, 90.9,-11.1,0
+	Line 351:
+		derelict      junk1_partb,-46870.7, 41326.1, 69578.7, 160.6, 149.8,0
+	Line 352:
+		derelict      junk1_partb, 38233.7,-22666.3, 20093.5, 121.2,-173.7,0
+	Line 353:
+		derelict      junk1_shell,-58885.5, 56554.8, 51338.7,-38.4,-68.4,0
+	Line 354:
+		derelict      junk1_shell,-36606.3,-62594.8, 58223.6,-124.6, 113.3,0
+	Line 355:
+		derelict      junk1_shell, 23342.3, 17103,-67000.2,-167.2,-144.2,0
+	Line 356:
+		derelict      junk1_shell,-1023.9, 52381.8,-6877,-178.1, 97.9,0
+	Line 357:
+		derelict      junk1_shell,-55176.5,-20812.3,-7839.2,-41.9,-156.8,0
+	Line 358:
+		derelict      junk1_shell, 55489.8,-48013.7, 51873,-65.1, 149.6,0
+	Line 359:
+		derelict      junk1_shell, 4143.4, 18303.3, 28588.6, 75.4, 72.6,0
+	Line 360:
+		derelict      junk1_shell,-20950.7, 19125.2, 22004.2, 37.8, 10.6,0
+	Line 361:
+		derelict      junk1_shell, 36273.9, 60783.9, 9530.4, 134.5, 87,0
+	Line 362:
+		derelict      junk1_shell, 21687.1,-21049,-15691.2, 56.5,-163.8,0
+	Line 363:
+		derelict      junk1_shell,-29613.9, 30366.2, 50026.6, 145.3,-30.9,0
+	Line 364:
+		derelict      junk1_shell,-53333.9, 42925.1,-39346.8,-178, 65.3,0
+	Line 365:
+		derelict      junk1_shell, 2662.9, 29751.6, 8223,-63.9,-13.2,0
+	Line 366:
+		derelict      junk1_shell,-11207.7,-12120.4, 16790.6,-135.7, 121.2,0
+	Line 367:
+		derelict      junk1_shell,-35888.6,-2831.1,-44316.8,-98.6, 149,0
+	Line 368:
+		derelict      junk1_shell, 29726.9,-49919.6,-19826.5,-45.5,-97.8,0
+	Line 369:
+		derelict      junk1_shell,-16624.7,-42063.4,-17298.6,-139.7, 30.8,0
+	Line 370:
+		derelict      junk1_shell, 68299.5,-5710.4, 32765.8, 79.1, 102,0
+	Line 371:
+		derelict      junk1_shell, 64547.8, 31025.6, 38614.8,-15.5,-50.1,0
+	Line 372:
+		derelict      junk1_shell, 25819.7,-2172.5,-61143.9,-117.9,-79.2,0
+	Line 373:
+		derelict      junk1_shell,-20016.5, 50621.9,-52884,-163.7,-108.6,0
+	Line 374:
+		derelict      junk1_shell, 6390.4,-10364,-12130.8, 178.7, 85.3,0
+	Line 375:
+		derelict      junk1_shell, 38111.3, 62688.5, 16565.6,-162.9, 144.1,0
+	Line 376:
+		derelict      junk1_shell, 32219.8,-35659.8, 12179.4, 58.3, 20,0
+	Line 377:
+		derelict      junk1_shell, 66247.1, 16528.4, 5304.7, 125.1, 45.6,0
+	Line 378:
+		derelict      junk1_shell,-46065.9, 11311.5,-20077.2, 17.7,-32.8,0
+	Line 379:
+		derelict      junk1_shell,-31594.5, 51346.9,-58032.7, 43.7,-121.8,0
+	Line 380:
+		derelict      junk1_shell,-44109.9, 58729.7, 62809.6,-36.1, 138.2,0
+	Line 381:
+		derelict      junk1_shell, 38113.4,-22185.8, 792.9, 59.5, 154.6,0
+	Line 382:
+		derelict      junk1_shell,-23512.7,-67354, 38936.7, 7.7, 133.2,0
+	Line 383:
+		derelict      crate, 20554.8, 3342.4, 7951.9, 75.8, 71.3,0
+	Line 384:
+		derelict      crate,-48598.2, 26072.4, 31449,-75.3, 163.7,0
+	Line 385:
+		derelict      crate, 36261.9, 29048,-12646.4,-166.3,-133.7,0
+	Line 386:
+		derelict      crate, 44955.7,-13598.1, 2486.8,-96.2, 160.7,0
+	Line 387:
+		derelict      crate,-3130,-20183.5, 12269.7,-53.2, 85,0
+	Line 388:
+		derelict      crate, 32980.2, 32460.2, 8916.3,-175,-147.9,0
+	Line 389:
+		derelict      crate, 19511.6, 48000.3,-25606.9,-12.2, 141.7,0
+	Line 390:
+		derelict      crate, 17617.6,-48429.6, 7518.4, 144, 142.9,0
+	Line 391:
+		derelict      crate,-21552,-45435.1,-20422.7, 42.5, 71.7,0
+	Line 392:
+		derelict      crate, 47982.9,-9862.6,-22172, 122.2, 121.4,0
+	Line 393:
+		derelict      crate,-8992.7,-8723.3, 21273, 62.6,-47.9,0
+	Line 394:
+		derelict      crate,-31398.6, 8335.9,-41928.5, 15.1,-146.1,0
+	Line 395:
+		derelict      crate, 28521.2,-12109.7,-21033.5,-151,-47.4,0
+	Line 396:
+		derelict      crate,-7154.4,-40202.6, 6104,-70,-148.9,0
+	Line 397:
+		derelict      crate,-47737.1, 4336.1, 41616.4, 25.1,-64.1,0
+	Line 398:
+		derelict      crate, 1373.7,-3702,-14652.7, 34.3, 82.9,0
+	Line 399:
+		derelict      crate,-25615.5, 47907.8,-43908.4, 39.5, 48.6,0
+	Line 400:
+		derelict      crate,-34433.7,-2554.1,-24273.2,-46.4,-15.1,0
+	Line 401:
+		derelict      crate, 43854.5, 15449.9, 608.7, 39.4, 141.3,0
+	Line 402:
+		derelict      crate,-4035.9, 25368.8, 9609.5,-119.8, 173.2,0
+	Line 403:
+		derelict      crate,-42604.7,-39454.7,-16830.6, 133.8, 179.9,0
+	Line 404:
+		derelict      crate, 15705.5, 4401.4, 32741.2, 150.5, 110.9,0
+	Line 405:
+		derelict      crate,-4579.2,-14297.7,-35001.9,-73.6,-154.4,0
+
+	Now parsing:
+		D:\Google Drive\Working\Homeworld\HWR_HWClassicMaps\HWR_HWClassicMaps_source\Source\Amphion4\mothership_1.missphere
+	Line 1:
+		ships     ,54319.0,0.0,-20000.0,180.0,r1,mothership,1,null_formation|?|?,0,?
+	Line 2:
+		ships     ,54319.0,0.0,-20000.0,0.0,r1,researchship,1,parade_formation|?|?,0,?
+	Line 3:
+		ships     ,54319.0,0.0,-20000.0,0.0,r1,resourcecollector,3,parade_formation|?|?,0,?
+	Line 4:
+		ships     ,54319.0,0.0,-20000.0,0.0,r1,carrier,1,parade_formation|?|?,0,?
+
+	Now parsing:
+		D:\Google Drive\Working\Homeworld\HWR_HWClassicMaps\HWR_HWClassicMaps_source\Source\Amphion4\mothership_0.missphere
+	Line 1:
+		ships     ,-54319.0,0.0,20000.0,0.0,r2,mothership,1,null_formation|?|?,0,?
+	Line 2:
+		ships     ,-54319.0,0.0,20000.0,0.0,r2,researchship,1,parade_formation|?|?,0,?
+	Line 3:
+		ships     ,-54319.0,0.0,20000.0,0.0,r2,resourcecollector,3,parade_formation|?|?,0,?
+	Line 4:
+		ships     ,-54319.0,0.0,20000.0,0.0,r2,carrier,1,parade_formation|?|?,0,?
+
+	Now parsing:
+		D:\Google Drive\Working\Homeworld\HWR_HWClassicMaps\HWR_HWClassicMaps_source\Source\Amphion4\mothership_2.missphere
+	Line 1:
+		ships     ,0.0,54319.0,-10000.0,-90.0,r1,mothership,1,null_formation|?|?,0,?
+	Line 2:
+		ships     ,0.0,54319.0,-10000.0,-90.0,r1,researchship,1,parade_formation|?|?,0,?
+	Line 3:
+		ships     ,0.0,54319.0,-10000.0,-90.0,r1,resourcecollector,3,parade_formation|?|?,0,?
+	Line 4:
+		ships     ,0.0,54319.0,-10000.0,-90.0,r1,carrier,1,parade_formation|?|?,0,?
+
+	Now parsing:
+		D:\Google Drive\Working\Homeworld\HWR_HWClassicMaps\HWR_HWClassicMaps_source\Source\Amphion4\mothership_3.missphere
+	Line 1:
+		ships     ,0.0,-54319.0,10000.0,90.0,r2,mothership,1,null_formation|?|?,0,?
+	Line 2:
+		ships     ,0.0,-54319.0,10000.0,90.0,r2,researchship,1,parade_formation|?|?,0,?
+	Line 3:
+		ships     ,0.0,-54319.0,10000.0,90.0,r2,resourcecollector,3,parade_formation|?|?,0,?
+	Line 4:
+		ships     ,0.0,-54319.0,10000.0,90.0,r2,carrier,1,parade_formation|?|?,0,?
+
+Finished converting level.
