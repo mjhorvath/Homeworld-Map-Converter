@@ -1,17 +1,17 @@
 # HwrmMapConverter
 
-##DESCRIPTION
+## DESCRIPTION
 This is a map converter for converting Homeworld and Homeworld: Cataclysm levels to work with Homeworld Remastered's Homeworld Classic Maps mod (also by me). It includes support for crystals, harvestable dust clouds and harvestable nebula, but not meteor showers, slipgates, etc.
 
-##INSTALLATION
+## INSTALLATION
 1. Extract the contents of this archive into a folder on your harddrive.
 2. Subscribe/Install the Homeworld Classic Maps mod for Homeworld Remastered.
 3. Install any converted/generated maps to your "data\leveldata\multiplayer\homeworldclassic" folder. Create this folder if it doesn't already exist.
 
-##NOTE
+## NOTE
 All players must have the Homeworld Classic Maps mod installed in order to play against each other in multiplayer. Also, Windows Scripting Host v5.6 or greater must be installed in order for this converter to work. Windows Scripting Host comes pre-installed on Windows XP or higher I believe.
 
-INSTRUCTIONS
+## INSTRUCTIONS
 There are two ways in which you can use this program:
 
 1. You can drag & drop a single level file onto "HWR_MapConverter.js", in which case a new level file will be created with the same name name and in the same directory as the input file, but with an additional "HW1_" or "HWC_" prefix added to the filename.
@@ -48,7 +48,7 @@ There are two ways in which you can use this program:
 
    The second parameter is just a shortcut if you want to overwrite the defaults.
 
-##ADVANCED OPTIONS
+## ADVANCED OPTIONS
 If you look in the outputted level near the top of the file, or look in "levelfunc.lua" near the top of the file, you'll find a number of map-tweaking variables. The variables in this section make it possible to change basic characteristics of a map without having to re-run it through the converter.
 
     RUsRatio        (default: 1)
