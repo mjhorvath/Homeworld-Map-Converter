@@ -1,3 +1,12 @@
+-- levelfunc.lua (c) by Mikali
+--
+-- To the extent possible under law, the person who associated CC0 with
+-- levelfunc.lua has waived all copyright and related or neighboring rights
+-- to <WORK'S NAME>.
+--
+-- You should have received a copy of the CC0 legalcode along with this
+-- work.  If not, see <http://creativecommons.org/publicdomain/zero/1.0/>.
+
 if not (RUsRatio) then	RUsRatio = 1	end
 if not (PebRatio) then	PebRatio = 7/8	end
 if not (NebRatio) then	NebRatio = 1/100	end
