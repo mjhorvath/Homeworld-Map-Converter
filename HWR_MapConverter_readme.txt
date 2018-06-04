@@ -24,7 +24,13 @@ nebula, but not meteor showers, slipgates, etc.
 
 COPYRIGHT
 "HWR_MapConverter.js" is licensed under the GNU Lesser General Public License 
-version 2.1. I release "levelfunc.lua" into the public domain.
+version 2.1. You should have received a copy of the GNU Lesser General Public 
+License along with this library; if not, write to the Free Software Foundation, 
+Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301  USA
+
+"levelfunc.lua" is licensed under the Creative Commons CC0 public 
+domain license. You should have received a copy of the CC0 legalcode along with 
+this work.  If not, see <http://creativecommons.org/publicdomain/zero/1.0/>.
 
 
 ================================================================================
