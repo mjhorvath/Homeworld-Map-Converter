@@ -40,15 +40,17 @@ There are two ways in which you can use this program:
 
    There are two additional parameters that shouldn't really ever be used:
 
-       [[-printfuncs]] (optional) appends the contents of "levelfunc.lua" to the end of a level file.
-
        [[-printvarbs]] (optional) prepends additional map-tweaking variables to the beginning of a level file.
 
-   In theory, the first one should make it so that players won't need to have a copy of "levelfunc.lua" in their "data\scripts" folder, and thus make it possible for maps to be traded freely over multiplayer. However, maps make use of other features, such as harvestable dustclouds and nebula, that require additional HODs and scripting, and thus cannot be shared easily without including the rest of the mod as well.
+       [[-printfuncs]] (optional) appends the contents of "levelfunc.lua" to the end of a level file.
 
-   (GearBox later disabled the feature in Homeworld Remastered where players could host custom maps and share them with other players over GameSpy or Steam without the other players needing to download the maps beforehand.)
+   The first parameter is just a shortcut for when you want to overwrite the default level settings.
 
-   The second parameter is just a shortcut for when you want to overwrite the default settings.
+   In theory, the second parameter should make it so that players won't need to have a copy of "levelfunc.lua" in their "data\scripts" folder, and thus make it possible for maps to be traded freely over multiplayer. However, converted maps make use of other features, such as harvestable dustclouds and nebula, that require additional HODs and scripting, and thus cannot be shared easily without including the rest of the mod as well.
+
+   (GearBox later disabled the feature in Homeworld Remastered where players could host custom maps and share them with other players over GameSpy or Steam without the other players needing to download them beforehand.)
+
+
 
 ## ADVANCED OPTIONS
 If you look in the outputted level near the top of the file, or look in "levelfunc.lua" near the top of the file, you'll find a number of map-tweaking variables. The variables in this section make it possible to change basic characteristics of a map without having to re-run it through the converter.
