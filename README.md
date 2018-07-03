@@ -38,15 +38,15 @@ There are two ways in which you can use this program:
 
        [[-neb]] (optional) specifies the desired amount for the "NebRatio" variable described below.
 
-   There are two additional parameters that shouldn't really be used:
+   There are two additional parameters that shouldn't really ever be used:
 
        [[-printfuncs]] (optional) appends the contents of "levelfunc.lua" to the end of a level file.
 
        [[-printvarbs]] (optional) prepends additional map-tweaking variables to the beginning of a level file.
 
-   In theory, the first parameter should make it so that it is not required to have a copy of "levelfunc.lua" in the "data\scripts" folder, and thus make it so that maps can be traded freely over multiplayer. However, maps make use of other features such as harvestable dustclouds and nebula that require additional HODs and scripting.
+   In theory, the first one should make it so that players won't need to have a copy of "levelfunc.lua" in their "data\scripts" folder, and thus make it possible for maps to be traded freely over multiplayer. However, maps make use of other features, such as harvestable dustclouds and nebula, that require additional HODs and scripting, and thus cannot be shared easily without including the rest of the mod as well. Further, GearBox disabled the feature in Homeworld Remastered where players can host custom maps and share them with other players.
 
-   The second parameter is just a shortcut if you want to overwrite the defaults.
+   The second parameter is just a shortcut for when you want to overwrite the default settings.
 
 ## ADVANCED OPTIONS
 If you look in the outputted level near the top of the file, or look in "levelfunc.lua" near the top of the file, you'll find a number of map-tweaking variables. The variables in this section make it possible to change basic characteristics of a map without having to re-run it through the converter.
