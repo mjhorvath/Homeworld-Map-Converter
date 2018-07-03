@@ -16,7 +16,7 @@ There are two ways in which you can use this program:
 
 1. You can drag & drop a single level file onto "HWR_MapConverter.js", in which case a new level file will be created with the same name name and in the same directory as the input file, but with an additional "HW1_" or "HWC_" prefix added to the filename.
 
-2. You can run the program from the DOS command-line. The command-line syntax is as follows:
+2. You can run the program from the Windows command prompt. The command-line syntax is as follows:
 
        cscript [script] [Input File] [[Output File]] [[-game HW1 or HWC]] [[-debug]] [[-rus amount]] [[-peb amount]] [[-neb amount]]
 
