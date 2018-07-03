@@ -44,7 +44,7 @@ There are two ways in which you can use this program:
 
        [[-printfuncs]] (optional) appends the contents of "levelfunc.lua" to the end of a level file.
 
-   The first parameter is just a shortcut for when you want to overwrite the default level settings.
+   The first parameter is just a shortcut for when you want to override the default level settings.
 
    In theory, the second parameter should make it so that players won't need to have a copy of "levelfunc.lua" in their "data\scripts" folder, and thus make it possible for maps to be traded freely over multiplayer. However, converted maps make use of other features, such as harvestable dustclouds and nebula, that require additional HODs and scripting, and thus cannot be shared easily without including the rest of the mod as well.
 
