@@ -44,7 +44,7 @@ There are two ways in which you can use this program:
 
        [[-printvarbs]] (optional) prepends additional map-tweaking variables to the beginning of a level file.
 
-   In theory, the first one should make it so that players won't need to have a copy of "levelfunc.lua" in their "data\scripts" folder, and thus make it possible for maps to be traded freely over multiplayer. However, maps make use of other features, such as harvestable dustclouds and nebula, that require additional HODs and scripting, and thus cannot be shared easily without including the rest of the mod as well. Further, GearBox disabled the feature in Homeworld Remastered where players could host custom maps and share them with other players over GameSpy or Steam.
+   In theory, the first one should make it so that players won't need to have a copy of "levelfunc.lua" in their "data\scripts" folder, and thus make it possible for maps to be traded freely over multiplayer. However, maps make use of other features, such as harvestable dustclouds and nebula, that require additional HODs and scripting, and thus cannot be shared easily without including the rest of the mod as well. Further, GearBox disabled the feature in Homeworld Remastered where players could host custom maps and share them with other players over GameSpy or Steam without needing to download them beforehand.
 
    The second parameter is just a shortcut for when you want to overwrite the default settings.
 
