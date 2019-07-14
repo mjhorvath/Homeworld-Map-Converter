@@ -85,6 +85,10 @@ If you look in the outputted level near the top of the file, or look in "levelfu
     RandomSeedValue    (default: {763261})
     This parameter changes the seed value of the random number functions used in generating the maps. Note: this number must be stored in a Lua table.
 
+## TO DO
+
+* Convert this script to Python.
+
 ## HOME PAGE
 
 You can find my homepage and other Homeworld maps and tools at:
