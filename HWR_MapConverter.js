@@ -20,10 +20,10 @@
 
 // Title: HW1/HWC to HWRM Map Converter
 // Version: 1.0.1
-// Author: Mikali
+// Authors: Mikali
 // Created: 2005/09/20
 // Updated: 2015/03/18
-// Homepage: http://isometricland.net/homeworld/homeworld.php
+// Website: http://isometricland.net/homeworld/homeworld.php
 // Discussion: http://forums.relicnews.com/showthread.php?t=73533
 
 var ScriptVersion = "1.0.1"
