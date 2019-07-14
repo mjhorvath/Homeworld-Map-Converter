@@ -1,12 +1,10 @@
 Title: HW1 and HWC to HWRM Map Converter
 Version: 1.0.2
-Author: Mikali
+Authors: Mikali
 Created: 2005/09/20
 Updated: 2018/06/03
-Homepage: http://isometricland.net/homeworld/homeworld.php
+Website: http://isometricland.net/homeworld/homeworld.php
 Discussion: http://forums.relicnews.com/showthread.php?t=73533
-Homeworld Classic Maps mod: 
-http://steamcommunity.com/sharedfiles/filedetails/?id=401926364
 
 
 ================================================================================
@@ -14,9 +12,9 @@ http://steamcommunity.com/sharedfiles/filedetails/?id=401926364
 
 DESCRIPTION
 This is a map converter for converting Homeworld and Homeworld: Cataclysm 
-levels to work with Homeworld Remastered's Homeworld Classic Maps mod (also by 
-me). It includes support for crystals, harvestable dust clouds and harvestable 
-nebula, but not meteor showers, slipgates, etc.
+levels to work with Homeworld Remastered's Homeworld Classic Enhanced mod (also 
+created by me). It includes support for crystals, harvestable dust clouds and 
+harvestable nebula, but not meteor showers, slipgates, etc.
 
 
 ================================================================================
