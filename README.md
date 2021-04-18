@@ -90,7 +90,7 @@ If you look in the outputted level near the top of the file, or look in "levelfu
 
 ## TO DO
 
-* Convert this script to Python.
+* Rewrite this script in Python.
 
 ## HOME PAGE
 
