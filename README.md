@@ -3,6 +3,9 @@
 ## DESCRIPTION
 This is a map converter for converting _Homeworld_ and _Homeworld: Cataclysm_ levels to work with _Homeworld Remastered_'s _Homeworld Classic Enhanced_ mod (also created by me). It includes support for crystals, harvestable dust clouds and harvestable nebula, but not meteor showers, slipgates, etc.
 
+## LICENSE
+The Lua script is released under Creative Commons' public domain license. The JavaScript file is released under LGPLv2.1.
+
 ## INSTALLATION
 1. Extract the contents of this archive into a folder on your harddrive.
 2. Subscribe/Install the Homeworld Classic Maps mod for Homeworld Remastered.
