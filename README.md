@@ -1,4 +1,4 @@
-# HW Map Converter
+# Homeworld Map Converter
 
 ## DESCRIPTION
 This is a map converter for converting _Homeworld_ and _Homeworld: Cataclysm_ levels to work with _Homeworld Remastered_'s _Homeworld Classic Enhanced_ mod (also created by me). It includes support for crystals, harvestable dust clouds and harvestable nebula, but not meteor showers, slipgates, etc.
